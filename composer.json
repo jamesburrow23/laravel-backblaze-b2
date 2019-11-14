@@ -1,15 +1,14 @@
 {
-    "name": "gliterd/laravel-backblaze-b2",
+    "name": "jamesburrow23/laravel-backblaze-b2",
     "type": "library",
     "description": "Backblaze B2 Cloud Storage for Laravel 5",
     "keywords": ["flysystem", "filesystem", "api", "backblaze", "laravel", "storage", "disks"],
-    "homepage": "https://github.com/mhetreramesh/flysystem-backblaze",
+    "homepage": "https://github.com/jamesburrow23/laravel-backblaze-b2",
     "license": "MIT",
     "authors": [
         {
-            "name": "Ramesh Mhetre",
-            "email": "mhetreramesh@gmail.com",
-            "homepage": "https://about.me/rameshmhetre",
+            "name": "James Burrow",
+            "email": "jamesburrow23@gmail.com",
             "role": "Developer"
         }
     ],
